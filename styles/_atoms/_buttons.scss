@@ -1,0 +1,5 @@
+@layer components {
+    .button {
+        @apply px-3 py-1 bg-black text-[#bbb] uppercase rounded-[0.4rem] cursor-pointer text-14 tracking-wide hover:bg-[#000] hover:text-white transition-all duration-250;
+    }
+}
